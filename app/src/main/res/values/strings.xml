@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="km">-Km</string>
+    <string name="wind">Wind</string>
+    <string name="f">-</string>
+    <string name="_0">0</string>
+    <string name="_00">-0%</string>
+    <string name="humidity">Humidity</string>
+    <string name="search_your_city">Search Your CIty</string>
+    <string name="type_your_city">Type Your City</string>
+</resources>
